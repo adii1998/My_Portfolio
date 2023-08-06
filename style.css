@@ -24,15 +24,15 @@ body{
     left:0;
     width: 100%;
     padding: 2rem 9%;
-    background: transparent;
+    /* background: transparent; */
     display: flex;
-    align-items:center ;
+    align-items:center;
     justify-content: space-between;
     z-index:100 ;
     transition:  .3s;
 }
 .header.sticky{
-    background-color: #f5d9d5;
+    background-color: rgba(245, 217, 213,0.8);
     
 } 
 .logo{
