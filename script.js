@@ -33,7 +33,13 @@ window.onscroll = () => {
             sec.classList.remove('show-animate');
          }
     });
+// // Read More part
+//   const ReadMoreBtn = document.querySelector('.btn');
+//   const text = document.querySelector('.text');
 
+//   ReadMoreBtn.addEventListener('click',(e) =>{
+//     ReadMoreBtn.classList.toggle('show-more')
+//   })
 
     let header = document.querySelector('header');
 

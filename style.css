@@ -152,6 +152,9 @@ section{
 .btn-box .btn:hover::before{
     width: 100%;
 }
+.text.show-more .moreText{
+    display: inline;
+}
 .home-sci{
   position:absolute;
   bottom: 4rem;
